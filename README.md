@@ -8,7 +8,6 @@
 <body>
     <h2>Hello World🫡</h2>
     <h2>Nice to meet you🙂</h2>
-    <br>
         <p>About me text</p>
         <p>🌍 living in Germany</p>
         <p>🖥️ web developer</p>
