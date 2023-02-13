@@ -9,13 +9,13 @@
     <h2>Hello World🫡</h2>
     <h2>Nice to meet you🙂</h2>
         <p>About me text</p>
-        <p>🌍 living in Germany</p>
-        <p>🖥️ web developer</p>
-        <p>📱 learning to develope native apps</p>
-        <p>🧠 open for new challanges</p>
-        <p>🌳 love nature</p>
-        <p>☮️ no to racism</p>
-    <h3>contact me anytime</h3>
+        <p>🌍 Living in Germany</p>
+        <p>🖥️ Web developer with passion</p>
+        <p>📱 Learning to develope native apps</p>
+        <p>🧠 Open for new challanges</p>
+        <p>🌳 Love nature</p>
+        <p>☮️ No to racism</p>
+    <h3>Contact me anytime</h3>
         <p>📧 tarekjassine@gmail.com</p>
         <p>🌐 portfolio coming soon</p>
 </body>
