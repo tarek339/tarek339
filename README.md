@@ -10,14 +10,12 @@
     <h2>Nice to meet you🙂</h2>
     <br>
         <p>About me text</p>
-        <br>
         <p>🌍 living in Germany</p>
         <p>🖥️ web developer</p>
         <p>📱 learning to develope native apps</p>
         <p>🧠 open for new challanges</p>
         <p>🌳 love nature</p>
         <p>☮️ no to racism</p>
-        <br>
     <h3>contact me anytime</h3>
         <p>📧 tarekjassine@gmail.com</p>
         <p>🌐 portfolio coming soon</p>
