@@ -16,7 +16,7 @@
         <p>🌳 Love nature</p>
         <p>☮️ No to racism</p>
     <h3>Contact me for freelance work or job opportunities</h3>
-        <a href="tarekjassine@gmail.com" style="color: black;">📧 tarekjassine@gmail.com</a>
+        <a href="mailto:tarekjassine@gmail.com" style="color: black;">📧 tarekjassine@gmail.com</a>
         <p>🌐 portfolio coming soon</p>
 </body>
 </html>
