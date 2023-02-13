@@ -11,7 +11,6 @@
         <p>About me text</p>
         <p>🌍 Living in Germany</p>
         <p>🖥️ Web developer with passion</p>
-        <p>📱 Learning to develope native apps</p>
         <p>🧠 Open for new challanges</p>
         <p>🌳 Love nature</p>
         <p>☮️ No to racism</p>
