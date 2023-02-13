@@ -15,7 +15,7 @@
         <p>🧠 Open for new challanges</p>
         <p>🌳 Love nature</p>
         <p>☮️ No to racism</p>
-    <h3>Contact me anytime</h3>
+    <h3>Contact me for freelance work or job opportunities</h3>
         <p>📧 tarekjassine@gmail.com</p>
         <p>🌐 portfolio coming soon</p>
 </body>
