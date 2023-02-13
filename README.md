@@ -17,6 +17,7 @@
         <p>☮️ No to racism</p>
     <h3>Contact me for freelance work or job opportunities</h3>
         <a href="mailto:tarekjassine@gmail.com">📧 tarekjassine@gmail.com</a>  
+        <br>
         <a href="">🌐 portfolio coming soon</a>
 </body>
 </html>
