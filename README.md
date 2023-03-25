@@ -15,7 +15,7 @@
         <p>🧠 Open for new challanges</p>
         <p>🌳 Love nature</p>
         <p>☮️ No to racism</p>
-        <p>Zur Zeit arbeite ich an einer Führerschein-Check App mit React Native.</p>
+        <p>Zur Zeit arbeite ich an einer Fleet Management App mit React Native.</p>
     <h3>Contact me for freelance work or job opportunities</h3>
         <a href="mailto:tarekjassine@gmail.com">📧 tarekjassine@gmail.com</a>  
         <br>
