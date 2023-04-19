@@ -19,6 +19,6 @@
     <h3>Contact me for freelance work or job opportunities</h3>
         <a href="mailto:tarekjassine@gmail.com">📧 tarekjassine@gmail.com</a>  
         <br>
-        <a href="">🌐 portfolio coming soon</a>
+        <a href="">🌐 https://www.malt.de/profile/tarekjassine</a>
 </body>
 </html>
