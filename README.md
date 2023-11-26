@@ -8,10 +8,10 @@
 <body>
     <h2>Hello World🫡</h2>
     <h2>Nice to meet you🙂</h2>
-        <p>Ich bin ein leidenschaftlicher und erfahrener Webentwickler, der in Hamburg lebt und es liebt, Anwendungen zu entwickeln und den Fortschritt der                 Entwicklung zu sehen.</p>
+        <p>Ich bin ein leidenschaftlicher und erfahrener Softwareentwickler, der in Hamburg lebt und es liebt, Anwendungen zu entwickeln und den Fortschritt der                 Entwicklung zu sehen.</p>
         <p>Mein Ziel ist es, qualitativ hochwertige, skalierbare und benutzerfreundliche Webanwendungen zu entwickeln, die die Bedürfnisse erfüllen. Ich genieße            die Herausforderung, Webanwendungen zu entwickeln, die nicht nur nützlich, sondern auch attraktiv und einfach zu bedienen sind.</p>    
         <p>🌍 Living in Germany</p>
-        <p>🖥️ Web developer with passion</p>
+        <p>🖥️ Software developer with passion</p>
         <p>🧠 Open for new challanges</p>
         <p>🌳 Love nature</p>
         <p>☮️ No to racism</p>
